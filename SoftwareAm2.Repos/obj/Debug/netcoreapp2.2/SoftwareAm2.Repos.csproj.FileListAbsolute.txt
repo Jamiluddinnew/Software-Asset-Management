@@ -1,0 +1,12 @@
+D:\jamil\Office\SoftwareAM2\SoftwareAm2.Repos\bin\Debug\netcoreapp2.2\SoftwareAm2.Repos.deps.json
+D:\jamil\Office\SoftwareAM2\SoftwareAm2.Repos\bin\Debug\netcoreapp2.2\SoftwareAm2.Repos.dll
+D:\jamil\Office\SoftwareAM2\SoftwareAm2.Repos\bin\Debug\netcoreapp2.2\SoftwareAm2.Repos.pdb
+D:\jamil\Office\SoftwareAM2\SoftwareAm2.Repos\bin\Debug\netcoreapp2.2\SoftwareAM2.data.dll
+D:\jamil\Office\SoftwareAM2\SoftwareAm2.Repos\bin\Debug\netcoreapp2.2\SoftwareAM2.data.pdb
+D:\jamil\Office\SoftwareAM2\SoftwareAm2.Repos\obj\Debug\netcoreapp2.2\SoftwareAm2.Repos.csprojAssemblyReference.cache
+D:\jamil\Office\SoftwareAM2\SoftwareAm2.Repos\obj\Debug\netcoreapp2.2\SoftwareAm2.Repos.csproj.CoreCompileInputs.cache
+D:\jamil\Office\SoftwareAM2\SoftwareAm2.Repos\obj\Debug\netcoreapp2.2\SoftwareAm2.Repos.AssemblyInfoInputs.cache
+D:\jamil\Office\SoftwareAM2\SoftwareAm2.Repos\obj\Debug\netcoreapp2.2\SoftwareAm2.Repos.AssemblyInfo.cs
+D:\jamil\Office\SoftwareAM2\SoftwareAm2.Repos\obj\Debug\netcoreapp2.2\SoftwareAm2.Repos.csproj.CopyComplete
+D:\jamil\Office\SoftwareAM2\SoftwareAm2.Repos\obj\Debug\netcoreapp2.2\SoftwareAm2.Repos.dll
+D:\jamil\Office\SoftwareAM2\SoftwareAm2.Repos\obj\Debug\netcoreapp2.2\SoftwareAm2.Repos.pdb

@@ -1,0 +1,11 @@
+D:\jamil\Office\SoftwareAM2\SoftwareAM2.data\bin\Debug\netcoreapp2.2\SoftwareAM2.data.deps.json
+D:\jamil\Office\SoftwareAM2\SoftwareAM2.data\bin\Debug\netcoreapp2.2\SoftwareAM2.data.dll
+D:\jamil\Office\SoftwareAM2\SoftwareAM2.data\obj\Debug\netcoreapp2.2\SoftwareAM2.data.csprojAssemblyReference.cache
+D:\jamil\Office\SoftwareAM2\SoftwareAM2.data\obj\Debug\netcoreapp2.2\SoftwareAM2.data.csproj.CoreCompileInputs.cache
+D:\jamil\Office\SoftwareAM2\SoftwareAM2.data\obj\Debug\netcoreapp2.2\SoftwareAM2.data.AssemblyInfoInputs.cache
+D:\jamil\Office\SoftwareAM2\SoftwareAM2.data\obj\Debug\netcoreapp2.2\SoftwareAM2.data.AssemblyInfo.cs
+D:\jamil\Office\SoftwareAM2\SoftwareAM2.data\bin\Debug\netcoreapp2.2\SoftwareAM2.data.runtimeconfig.json
+D:\jamil\Office\SoftwareAM2\SoftwareAM2.data\bin\Debug\netcoreapp2.2\SoftwareAM2.data.runtimeconfig.dev.json
+D:\jamil\Office\SoftwareAM2\SoftwareAM2.data\bin\Debug\netcoreapp2.2\SoftwareAM2.data.pdb
+D:\jamil\Office\SoftwareAM2\SoftwareAM2.data\obj\Debug\netcoreapp2.2\SoftwareAM2.data.dll
+D:\jamil\Office\SoftwareAM2\SoftwareAM2.data\obj\Debug\netcoreapp2.2\SoftwareAM2.data.pdb
